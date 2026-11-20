@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 2x2 grid of pop-it bubbles inside the adaptive icon safe zone -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFF5C7A" android:pathData="M44,44m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path android:fillColor="#FFFFC23D" android:pathData="M64,44m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path android:fillColor="#FF4FD1A5" android:pathData="M44,64m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path android:fillColor="#FF5CA8FF" android:pathData="M64,64m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path android:fillColor="#66FFFFFF" android:pathData="M40,40m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path android:fillColor="#66FFFFFF" android:pathData="M60,40m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path android:fillColor="#66FFFFFF" android:pathData="M40,60m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path android:fillColor="#66FFFFFF" android:pathData="M60,60m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>
